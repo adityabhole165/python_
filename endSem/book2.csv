@@ -1,0 +1,6 @@
+﻿passengerid,pclass,name,sex,age,sibsp,parch,ticket,fare,cabine,embarked
+892,3,"Kelly ,Mr.James",male,34.5,0,0,330911,0,Nan,Q
+893,3,"Wilkes,Mrs.James(Ellen Needs)",female,47,1,0,363272,7,Nan,S
+894,2,"Myles,Mr.Thomas Francis",male,47,0,0,240276,9.6875,Nan,Q
+895,3,"Wizs,Mr.Albert",male,27,0,0,315154,8.6625,Nan,S
+896,3,"Hirvonene,Mrs.Alexander(Helga E Lindqvist)",female,22,1,1,3101298,12.2875,Nan,S
